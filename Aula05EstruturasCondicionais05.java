@@ -48,6 +48,7 @@ public class Aula05EstruturasCondicionais05 {
                 break;
             default:
                 System.out.println("Inválido");
+                break;
         }
     }
 }
